@@ -1,0 +1,21 @@
+\<vvdn\>total 94792
+/vvdn
+-rw-rw-r-- 1 vvdn vvdn        0 Jan 25 17:22 a.txt
+-rw-rw-r-- 1 vvdn vvdn       31 Jan 25 14:58 a.txt.gz
+-rw-rw-r-- 1 vvdn vvdn       44 Jan 25 14:58 c.txt.bz2
+drwxr-xr-x 2 vvdn vvdn     4096 Jan 23 08:00 Desktop
+-rw-rw-r-- 1 vvdn vvdn        8 Jan 24 16:01 doc.txt
+drwxr-xr-x 2 vvdn vvdn     4096 Jan 23 08:00 Documents
+drwxr-xr-x 2 vvdn vvdn     4096 Jan 23 08:00 Downloads
+-rw-r--r-- 1 vvdn vvdn     8980 Jan 23 07:45 examples.desktop
+-rw-rw-r-- 1 vvdn vvdn        8 Jan 25 14:54 f1.txtDownloads
+-rw-rw-r-- 1 vvdn vvdn        9 Jan 25 14:54 f2.txt
+-rw-rw-r-- 1 vvdn vvdn        9 Jan 25 14:55 f3.txt
+drwxr-xr-x 2 vvdn vvdn     4096 Jan 23 08:00 musicDownloads
+-rw-rw-r-- 1 vvdn vvdn 96983040 Jan 25 14:49 new.tar
+-rw-rw-r-- 1 vvdn vvdn      468 Jan 25 14:59 new.zip
+drwxr-xr-x 2 vvdn vvdn     4096 Jan 23 08:00 Pictures
+drwxr-xr-x 2 vvdn vvdn     4096 Jan 23 08:00 Public
+drwxr-xr-x 2 vvdn vvdn     4096 Jan 23 08:00 Templates
+-rw-rw-r-- 1 vvdn vvdn      284 Jan 25 16:05 test.a
+drwxr-xr-x 2 vvdn vvdn     4096 Jan 23 08:00 Videosf3.txt
