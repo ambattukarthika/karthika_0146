@@ -1,12 +1,12 @@
 #include<stdio.h>
 void main()
 {
-int one, two, multiply;
+int a, b, multiply;
 printf("Enter first number - ");
-scanf("%d",&one);
+scanf("%d",&a);
 printf("Enter second number - ");
-scanf("%d",&two);
-multiply = one * two;
-printf("The multiplication of numbers %d and %d is %d",one,two,multiply);
+scanf("%d",&b);
+multiply = a * b;
+printf("The multiplication of numbers %d and %d is %d",a,b,multiply);
 getch();
 }
